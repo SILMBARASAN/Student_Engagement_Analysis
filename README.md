@@ -51,13 +51,13 @@ You are provided with three CSV files:
 
 ---
 
-📌 Insights
+## 📌 Insights
 
 Students from specific age groups and locations tend to show higher engagement and satisfaction.
 
 The Engagement + Satisfaction metric helps identify which segments are most effectively interacting with the platform.
 
-📬 Author
+## 📬 Author
 
 Silambarasan Senthilkumar
 Email: sibisaran03@gmail.com
